@@ -1,0 +1,1 @@
+# InsectDetection_YOLOv8
